@@ -1,0 +1,7 @@
+{
+  "name": "iolabs/acf-pro",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.4.0"
+  }
+}
