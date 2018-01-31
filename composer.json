@@ -1,7 +1,11 @@
+
 {
-  "name": "iolabs/acf-pro",
-  "type": "wordpress-plugin",
-  "require": {
-    "composer/installers": "v1.4.0"
-  }
+    "name": "IOLabs/advanced-custom-fields-pro",
+    "description": "Plugin mirror for: advanced-custom-fields-pro",
+    "license": "GPL",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3.2",
+        "composer/installers": "v1.0.6"
+    }
 }
